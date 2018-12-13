@@ -1,0 +1,57 @@
+a {
+    text-decoration: none;
+    color: aliceblue
+}
+
+.main-nav {
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    text-decoration: none;
+    padding: 2em;
+}
+
+.page-heading {
+    text-align: center;
+    color: ivory; 
+}
+
+.header-subtitle {
+    text-align: center;
+    color: rgb(175, 231, 62)
+}
+
+.inner {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.img-featured {
+    border-radius: 50%;
+    align-items: center;
+    height: 6em;
+    width: 6em;
+    border: 3px solid ivory;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+}
+
+p {
+    font-family: 'Raleway', sans-serif;
+}
+
+.intro {
+    text-align: center;
+    padding: 0 33em;
+    font-size: 1.2em;
+    color: rgb(147, 7, 147)
+}
